@@ -1,7 +1,7 @@
 {
-  "name": "winston-graylog2",
-  "description": "A graylog2 transport for winston",
-  "version": "2.1.2",
+  "name": "winston-graylog2-ovh",
+  "description": "A graylog2 transport for winston (OVH edition)",
+  "version": "2.2.2",
   "author": "Started by: Flite, Inc. http://www.flite.com, mantained by: Namshi http://namshi.com",
   "contributors": [
     {
@@ -47,7 +47,7 @@
     }
   ],
   "dependencies": {
-    "graylog2": "^0.2.1",
+    "graylog2ovh": "^0.3.1",
     "winston": "^3.2.0",
     "winston-transport": "^4.3.0"
   },
